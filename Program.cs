@@ -8,12 +8,12 @@ class Program
         Console.WriteLine("my name is Isaiah Cargill.");
 
         int age = 17;
-        string greeting = "hello world";
+        string greeting = "Hello World";
         string firstname = "Isaiah";
         string lastname = "Cargill";
         double money = 2.79;
 
-       Console.WriteLine(greeting+ " ! " + "<My name is " + firstname + " "
+       Console.WriteLine(greeting + " ! " + "<My name is " + firstname + " "
        + lastname + ". I am " + age + " years old.  I just spent $" + money +" on an Energy Drink."); 
     }
 }
